@@ -1,1 +1,1 @@
-https://github.com/stellarplayer/stellar-watch-tv,https://github.com/Garefield/stellar-rmys,https://github.com/Garefield/stellar-yszf,https://github.com/Garefield/stellar-yszy,https://github.com/ninebird1/stellar-webdav,https://github.com/stellarplayer/stellar-web-ctrl,
+https://github.com/stellarplayer/stellar-watch-tv,https://github.com/Garefield/stellar-rmys,https://github.com/Garefield/stellar-yszf,https://github.com/Garefield/stellar-yszy,https://github.com/ninebird1/stellar-webdav,https://github.com/stellarplayer/stellar-web-ctrl
